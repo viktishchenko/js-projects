@@ -1,7 +1,7 @@
 /* const dataImg = {
-  history: "https://via.placeholder.com/450x300?text=photo+1",
-  vision: "https://via.placeholder.com/450x300?text=photo+2",
-  goals: "https://via.placeholder.com/450x300?text=photo+3",
+  history: "https://placehold.co/450x300?text=photo+1",
+  vision: "https://placehold.co/450x300?text=photo+2",
+  goals: "https://placehold.co/450x300?text=photo+3",
 };
 
 const about = document.querySelector(".about");
@@ -36,11 +36,11 @@ variant B
 */
 
 const data = {
-  history: "https://via.placeholder.com/450x300?text=photo+1",
+  history: "https://placehold.co/450x300?text=photo+1",
 
-  vision: "https://via.placeholder.com/450x300?text=photo+2",
+  vision: "https://placehold.co/450x300?text=photo+2",
 
-  goals: "https://via.placeholder.com/450x300?text=photo+3",
+  goals: "https://placehold.co/450x300?text=photo+3",
 };
 
 const btns = document.querySelectorAll(".tab-btn");
